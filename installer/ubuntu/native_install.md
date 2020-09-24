@@ -3,7 +3,7 @@
 The script below assumes that it can update OS packages for python and prerequisites for NEURON and HNN. To install HNN in an isolated environment, we recommend using the [Docker-based installation method](README.md).
 
 ```bash
-chmod +x installer.sh
+chmod +x hnn-ubuntu.sh
 ./installer.sh
 ```
 
